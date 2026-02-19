@@ -144,6 +144,12 @@ The 2023 U.S. emissions dataset illustrates both the **concentration of emission
 
 ---
 
+## 🖼 Dashboard Preview
+
+![Emissions Dashboard Using Databricks_page-0002](https://github.com/user-attachments/assets/ec7aa187-a0c1-4645-9206-c4ef7a776ca8)
+
+---
+
 ## 📚 References
 
 **Choose Energy.** *U.S. Carbon Emissions Report*. Available at: https://www.chooseenergy.com/data-center/carbon-dioxide-by-state/. Accessed January 26, 2026.
